@@ -13,9 +13,9 @@ control
             });
         })
 {
-     git add comments.js
+    git add comments.js
 
     git commit -m Copilot third commit
 
-    git push 
+    git push    
 }   
