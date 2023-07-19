@@ -17,5 +17,5 @@ control
 
     git commit -m Copilot third commit
 
-    git Pus
+    git push 
 }   
