@@ -10,8 +10,10 @@ function skillsMember() {
 {
     git add member.js
     
-    git commit -m "Copilot second commit"
+    git commit -m Copilot second commit
     
     git push   
 } 
-   
+{
+    git Pull       
+}       
